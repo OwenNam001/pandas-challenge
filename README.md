@@ -16,18 +16,11 @@ pandas-challenge
 pandas-challenge/
 │
 ├── PyCitySchools/
-│   ├── PyCitySchools_.py              # Main script for PyBank analysis
+│   ├── PyCitySchools_Analysis.ipynb              # Main script for PycitySchools
 │   ├── Resources/
-│   │   └── budget_data.csv  # Dataset for analysis
-│   └── analysis/
-│       └── analysis.txt     # Output text file with the financial analysis results
-│
-├── PyPoll/
-│   ├── main.py              # Main script for PyPoll analysis
-│   ├── Resources/
-│   │   └── election_data.csv  # Dataset for analysis
-│   └── analysis/
-│       └── analysis.txt       # Output text file with the election results
-│
-└── README.md               # Documentation and instructions
+│   │   └── schools_complete.csv                  # Dataset for schools
+│   │   └── students_complete.csv                 # Dataset for students
+├── Images/
+│   ├── education.png                             # Main script for PyPoll analysis
+└── README.md                                     # Documentation and instructions
 
